@@ -1,0 +1,12 @@
+name: wordPredictorApp
+title: wordPredictorApp
+username:
+account: shakir-sust
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2931219
+bundleId: 3694587
+url: https://shakir-sust.shinyapps.io/wordPredictorApp/
+when: 1601627854.38195
+asMultiple: FALSE
+asStatic: FALSE
